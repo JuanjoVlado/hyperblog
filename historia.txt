@@ -4,6 +4,4 @@ Tiene 30 años y blah blah blah
 
 blah...
 
-Nueva linea para entender 'git reset'
-
-Otra linea nueva
+Otro dia hablaremos de otra cosa
