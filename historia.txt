@@ -3,3 +3,5 @@ Esta es la hitorya de Juanjo Rivera
 Tiene 30 años y blah blah blah
 
 blah...
+
+Nueva linea para entender 'git reset'
